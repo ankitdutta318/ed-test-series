@@ -28,7 +28,7 @@ class App {
                 message: 'Hello World!'
             });
         });
-        this.express.use('/', router);
+        this.express.use('/api/v1/', router);
     }
 }
 Object.defineProperty(exports, "__esModule", { value: true });
