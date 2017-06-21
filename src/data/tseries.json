@@ -1,54 +1,112 @@
-{
-    "_id": "87fea43a893f645wd47fc59f",
-    "type": "MCQ",
-    "test_time": 120,
-    "test_cost": 150,
-    "ques_en": [
-        {
-            "_id": "593fa43a893f6a1e1c7fc59f",
-            "Question_Title": "What is the capital of India?",
-            "Question_Desc": "",
-            "Opt_A": "Noida",
-            "Opt_B": "Chennai",
-            "Opt_C": "Kolkata",
-            "Opt_D": "Delhi",
-            "Answer": "D",
-            "Image_Path": ""
-        },
-        {
-            "_id": "593fda536c46c0097671ca1b",
-            "Question_Title": "What is the capital of India?",
-            "Question_Desc": "",
-            "Opt_A": "Noida",
-            "Opt_B": "Chennai",
-            "Opt_C": "Kolkata",
-            "Opt_D": "Delhi",
-            "Answer": "D",
-            "Image_Path": ""
-        }
-    ],
-    "ques_hn": [
-        {
-            "_id": "593fa6d94fddd0213f520287",
-            "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
-            "Question_Desc": "",
-            "Opt_A": "अतिथि",
-            "Opt_B": "दोस्त",
-            "Opt_C": "माता",
-            "Opt_D": "बादल",
-            "Answer": "A",
-            "Image_Path": ""
-        },
-        {
-            "_id": "593fda536c46c0097671ca1c",
-            "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
-            "Question_Desc": "",
-            "Opt_A": "अतिथि",
-            "Opt_B": "दोस्त",
-            "Opt_C": "माता",
-            "Opt_D": "बादल",
-            "Answer": "A",
-            "Image_Path": ""
-        }
-    ]
-}   
+[
+    {
+        "_id": "87fea43a893f645wd47fc59f",
+        "testname": "AIEEE Mock Test",
+        "type": "MCQ",
+        "test_time": 120,
+        "test_cost": 150,
+        "ques_en": [
+            {
+                "_id": "593fa43a893f6a1e1c7fc59f",
+                "Question_Title": "What is the capital of India?",
+                "Question_Desc": "",
+                "Opt_A": "Noida",
+                "Opt_B": "Chennai",
+                "Opt_C": "Kolkata",
+                "Opt_D": "Delhi",
+                "Answer": "D",
+                "Image_Path": ""
+            },
+            {
+                "_id": "593fda536c46c0097671ca1b",
+                "Question_Title": "What is the capital of India?",
+                "Question_Desc": "",
+                "Opt_A": "Noida",
+                "Opt_B": "Chennai",
+                "Opt_C": "Kolkata",
+                "Opt_D": "Delhi",
+                "Answer": "D",
+                "Image_Path": ""
+            }
+        ],
+        "ques_hn": [
+            {
+                "_id": "593fa6d94fddd0213f520287",
+                "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
+                "Question_Desc": "",
+                "Opt_A": "अतिथि",
+                "Opt_B": "दोस्त",
+                "Opt_C": "माता",
+                "Opt_D": "बादल",
+                "Answer": "A",
+                "Image_Path": ""
+            },
+            {
+                "_id": "593fda536c46c0097671ca1c",
+                "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
+                "Question_Desc": "",
+                "Opt_A": "अतिथि",
+                "Opt_B": "दोस्त",
+                "Opt_C": "माता",
+                "Opt_D": "बादल",
+                "Answer": "A",
+                "Image_Path": ""
+            }
+        ]
+    },
+    {
+        "_id": "87fea5s8rf3f645wd47fc59f",
+        "testname": "IIT-JEE Mock Test",
+        "type": "MCQ",
+        "test_time": 120,
+        "test_cost": 150,
+        "ques_en": [
+            {
+                "_id": "593fa43a893f6a1e1c7fc59f",
+                "Question_Title": "What is the capital of India?",
+                "Question_Desc": "",
+                "Opt_A": "Noida",
+                "Opt_B": "Chennai",
+                "Opt_C": "Kolkata",
+                "Opt_D": "Delhi",
+                "Answer": "D",
+                "Image_Path": ""
+            },
+            {
+                "_id": "593fda536c46c0097671ca1b",
+                "Question_Title": "What is the capital of India?",
+                "Question_Desc": "",
+                "Opt_A": "Noida",
+                "Opt_B": "Chennai",
+                "Opt_C": "Kolkata",
+                "Opt_D": "Delhi",
+                "Answer": "D",
+                "Image_Path": ""
+            }
+        ],
+        "ques_hn": [
+            {
+                "_id": "593fa6d94fddd0213f520287",
+                "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
+                "Question_Desc": "",
+                "Opt_A": "अतिथि",
+                "Opt_B": "दोस्त",
+                "Opt_C": "माता",
+                "Opt_D": "बादल",
+                "Answer": "A",
+                "Image_Path": ""
+            },
+            {
+                "_id": "593fda536c46c0097671ca1c",
+                "Question_Title": "\"अभ्यागत, आगन्तुक, पाहूना.\" किस शब्द के पर्यायवाची है ?",
+                "Question_Desc": "",
+                "Opt_A": "अतिथि",
+                "Opt_B": "दोस्त",
+                "Opt_C": "माता",
+                "Opt_D": "बादल",
+                "Answer": "A",
+                "Image_Path": ""
+            }
+        ]
+    }
+]   
