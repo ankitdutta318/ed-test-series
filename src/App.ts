@@ -3,6 +3,7 @@ import * as express from 'express';
 import * as logger from 'morgan';
 import * as bodyParser from 'body-parser';
 import qbRouter from './routes/qbRouter';
+import TestSeriesRoutes from './routes/TestSeriesRouter';
 
 // Creates and configures an ExpressJS web server.
 class App {
@@ -38,6 +39,7 @@ class App {
         });
         this.express.use('/', router);
         this.express.use('/api/v1/qb', qbRouter);
+        this.express.use('/api/v1/tseries', TestSeriesRoutes);
     }
 }
 
