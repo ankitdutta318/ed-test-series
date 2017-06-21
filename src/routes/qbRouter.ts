@@ -1,5 +1,5 @@
 import {Router, Request, Response, NextFunction} from 'express';
-const Questions = require('../data');
+const Questions = require('../data/data');
 
 export class qbRouter {
   router: Router

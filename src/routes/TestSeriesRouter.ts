@@ -1,5 +1,5 @@
 import {Router, Request, Response, NextFunction} from 'express';
-const Tests = require('../tseries');
+const Tests = require('../data/tseries');
 
 export class TestSeriesRouter {
   router: Router

@@ -1,6 +1,6 @@
 "use strict";
 const express_1 = require('express');
-const Questions = require('../data');
+const Questions = require('../data/data');
 class qbRouter {
     /**
      * Initialize the qbRouter

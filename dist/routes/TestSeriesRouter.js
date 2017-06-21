@@ -1,6 +1,6 @@
 "use strict";
 const express_1 = require('express');
-const Tests = require('../tseries');
+const Tests = require('../data/tseries');
 class TestSeriesRouter {
     /**
      * Initialize the TestSeriesRouter
